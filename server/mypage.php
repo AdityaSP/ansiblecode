@@ -1,5 +1,5 @@
 <?php
- $conn = mysqli_connect("db","demo","demo","demo");
+ $conn = mysqli_connect("db","demodb","demo","demo");
  if (!$conn) {
 	die("Connection failed");
  }
